@@ -570,7 +570,7 @@ places = [
 bike_path_y = 150
 bike_path_x_min = 50
 bike_path_x_max = 750
-cyclist_colors = ['cyan', 'magenta', 'lime', 'gold', 'pink']
+cyclist_colors = ['red', 'blue', 'green', 'yellow', 'purple']
 cyclists = [
     Cyclist(200, bike_path_y, 1, cyclist_colors[0]),
     Cyclist(400, bike_path_y, -1, cyclist_colors[1]),
